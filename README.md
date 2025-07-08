@@ -76,4 +76,5 @@ a{
 }
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/4876ee11-3f83-40c5-880d-bb9b5900e9f6)
+![image](https://github.com/user-attachments/assets/bd27c44e-6447-4548-9f89-0c4f211bcd4d)
+
